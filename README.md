@@ -6,8 +6,8 @@ All data (lost and found reports) is managed in a centralized database.<br>
 Users interact with the centralized system, regardless of the institution where the item was lost or found.<br>
 <h2>Entire Process: </h2><br>
 <b>1. User Reports a Lost Item</b><br>
-User submits a Lost Item Report via the system. This report includes details like item description, image (if available), and the location where the item was lost.<br>
-The system receives and reformats the report data for easier processing.<br>
+<p>User submits a Lost Item Report via the system. This report includes details like item description, image (if available), and the location where the item was lost.<br>
+The system receives and reformats the report data for easier processing.</p><br>
 2. System Analyzes Report Data<br>
 Context Analysis with NLP: The system processes the textual description provided by the user using Natural Language Processing (NLP) to understand key details about the lost item.<br>
 Image Recognition: If the user uploads an image of the lost item, the system uses image recognition to extract features and match it with existing database records.<br>
