@@ -29,3 +29,8 @@ This report goes through the same processing as a Lost Item Report: reformatting
 <b>8. Institution Registration and Management</b><br>
 <p>Institutions need to register on the platform to be able to verify and handle found or lost item reports.<br>
 The System Administrator oversees institution registrations, ensuring proper data and process management.</p><br>
+<h2>Context Diagram</h2>
+<img src="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png"><br>
+<h2>DFD</h2>
+<img src="https://github.com/XD-learner/LostFound/blob/main/DFD.png"><br>
+
