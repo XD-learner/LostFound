@@ -30,9 +30,12 @@ This report goes through the same processing as a Lost Item Report: reformatting
 <p>Institutions need to register on the platform to be able to verify and handle found or lost item reports.<br>
 The System Administrator oversees institution registrations, ensuring proper data and process management.</p><br>
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png">Context Diagram</a></h2>
-<img src="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png"><br>
+<img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png"><br>
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/DFD.png">DFD</a> </h2>
-<img width="600" height="500" src="https://github.com/XD-learner/LostFound/blob/main/DFD.png"><br>
+<img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/DFD.png"><br>
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/ERD..png">ERD</a></h2>
-<img src="https://github.com/XD-learner/LostFound/blob/main/ERD..png"><br>
+<img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/ERD..png"><br>
+<h2>Gantt Chart</h2>
+<img width="500" height="400" src="https://github.com/user-attachments/assets/5e4a3469-26c9-464f-b2bb-16f7a11984af"><br>
+
 
