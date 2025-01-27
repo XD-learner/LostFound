@@ -5,7 +5,7 @@ Institutions register directly on the system.<br>
 All data (lost and found reports) is managed in a centralized database.<br>
 Users interact with the centralized system, regardless of the institution where the item was lost or found.<br>
 <h2>Entire Process: </h2><br>
-1.User Reports a Lost Item<br>
+<b>1. User Reports a Lost Item</b><br>
 User submits a Lost Item Report via the system. This report includes details like item description, image (if available), and the location where the item was lost.<br>
 The system receives and reformats the report data for easier processing.<br>
 2. System Analyzes Report Data<br>
