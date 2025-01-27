@@ -32,7 +32,7 @@ The System Administrator oversees institution registrations, ensuring proper dat
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png">Context Diagram</a></h2>
 <img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/ContextDiagram.png"><br>
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/DFD.png">DFD</a> </h2>
-<img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/DFD.png">
+<img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/DFD.png"><br>
 <h2><a href="https://github.com/XD-learner/LostFound/blob/main/ERD..png">ERD</a></h2>
 <img width="500" height="400" src="https://github.com/XD-learner/LostFound/blob/main/ERD..png"><br>
 <h2>Gantt Chart</h2>
